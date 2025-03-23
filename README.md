@@ -1,6 +1,6 @@
 # Menu hamburger
 
-Header responsivo com menu hamburder para você colocar no seu código
+Header responsivo com menu hamburguer para você colocar no seu código
 
 
 ## Stack utilizada
